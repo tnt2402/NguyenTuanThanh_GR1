@@ -1,0 +1,1 @@
+{'schedule_type': 'Weekly', 'run_day': 'Monday', 'run_hour': '00', 'run_minute': '00'}

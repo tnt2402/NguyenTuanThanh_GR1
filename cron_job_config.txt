@@ -1,0 +1,4 @@
+Start Hour: 13
+Start Minute: 25
+Cron Frequency: Daily
+Cron Week Day: Monday
